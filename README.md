@@ -5,7 +5,8 @@ Hey there! 👋 I'm Siddhartha Arepalli, a passionate front-end developer and te
 
 👨‍💻 ## I specialize in:
 
-Languages: JavaScript, HTML, CSS, Java
+<h1>Languages</h1> : JavaScript, HTML, CSS, Java
+
 Tools & Technologies: Github, figma
 
 
