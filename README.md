@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/4da399c3a8f66b662e6c7c2ad787ce979082d31ab3270866174dd686b224ce34/68747470733a2f2f63646e2e61636f64657a2e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f42616e6e65722d696d6167652d342e706e67)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQEMGGTorF58vQ/profile-displaybackgroundimage-shrink_350_1400/0/1698518492642?e=1709164800&v=beta&t=hnZGKxBAvz_10GdkcuKAqecaSFSO_G9-n_1zg4XFpnM)
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt = "coding" width= "400" src ="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
