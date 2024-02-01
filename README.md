@@ -7,15 +7,15 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript React js**
+- 🌱 I’m currently learning : **JavaScript React js**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on :  **Open Source**
 
-- 💬 Ask me about **AI coding startups**
+- 💬 Ask me about :  **AI coding startups**
 
-- 📫 How to reach me **asiddharthagoud@gmail.com**
+- 📫 How to reach me : **asiddharthagoud@gmail.com**
 
-- ⚡ Fun fact **I like to code in light mode also**
+- ⚡ Fun fact:  **I like to code in light mode also**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
