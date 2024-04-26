@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQEMGGTorF58vQ/profile-displaybackgroundimage-shrink_350_1400/0/1698518492642?e=1709164800&v=beta&t=hnZGKxBAvz_10GdkcuKAqecaSFSO_G9-n_1zg4XFpnM](https://media.licdn.com/dms/image/D5616AQEMGGTorF58vQ/profile-displaybackgroundimage-shrink_350_1400/0/1698518492642?e=1719446400&v=beta&t=WHxMW0fYh0m_NVMH-3eB11Xp1TKwKkezusNYWaHcg6w)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQEMGGTorF58vQ/profile-displaybackgroundimage-shrink_350_1400/0/1698518492642?e=1719446400&v=beta&t=WHxMW0fYh0m_NVMH-3eB11Xp1TKwKkezusNYWaHcg6w](https://media.licdn.com/dms/image/D5616AQEMGGTorF58vQ/profile-displaybackgroundimage-shrink_350_1400/0/1698518492642?e=1719446400&v=beta&t=WHxMW0fYh0m_NVMH-3eB11Xp1TKwKkezusNYWaHcg6w))
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt = "coding" width= "400" src ="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
