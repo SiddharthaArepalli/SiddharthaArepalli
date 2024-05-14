@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning : **React js**
+- 🌱 I’m currently learning : **MERN STACK**
 
 - 👯 I’m looking to collaborate on :  **Open Source**
 
