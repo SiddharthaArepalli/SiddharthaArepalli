@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on :  **Open Source**
 
-- 💬 Ask me about :  **AI coding startups**
+- 💬 Ask me about :  **Web-Development, DSA, Coding **
 
 - 📫 How to reach me : **asiddharthagoud@gmail.com**
 
