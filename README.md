@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **asiddharthagoud@gmail.com**
 
-- ⚡ Fun fact:  **I like to code in light mode also**
+- ⚡ Fun fact:  **I like to code in light mode also !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
