@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthaarepalli&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthaarepalli" /> </p>
 - 🌱 I’m currently learning : **Mern-Stack development**
 
-
 - 👯 I’m looking to collaborate on :  **Open Source**
 
 - 💬 Ask me about :  **Web-Development, DSA, Coding**
