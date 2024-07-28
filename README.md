@@ -24,6 +24,10 @@
 
 - ⚡ Fun fact **I like to code in light mode also**
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" />
+</p>
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h3 align="left">Connect with me:</h3>
