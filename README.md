@@ -12,22 +12,19 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthaarepalli" alt="siddharthaarepalli" /></a> 
 </p>
 
-- 🔭 I’m currently working on **Backend Development**
-
-- 🌱 I’m currently learning **JavaScript React js**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 💬 Ask me about **AI coding startups**
-
-- 📫 How to reach me **asiddharthagoud@gmail.com**
-
-- ⚡ Fun fact **I like to code in light mode also**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" />
-</p>
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    - 🔭 I’m currently working on **Backend Development**<br>
+    - 🌱 I’m currently learning **JavaScript React js**<br>
+    - 👯 I’m looking to collaborate on **Open Source**<br>
+    - 💬 Ask me about **AI coding startups**<br>
+    - 📫 How to reach me **asiddharthagoud@gmail.com**<br>
+    - ⚡ Fun fact **I like to code in light mode also**
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" style="max-width: 100%;" />
+  </div>
+</div>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h3 align="left">Connect with me:</h3>
