@@ -21,11 +21,10 @@
 - ⚡ Fun fact **I like to code in light mode also**
 
 <h3 align="left">Connect with me:</h3>
-###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
