@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **JavaScript React js**
+- 🌱 I’m currently learning **Express js**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **AI coding startups**
+- 💬 Ask me about **Web Developement , DSA , Competative programing**
 
 - 📫 How to reach me **asiddharthagoud@gmail.com**
 
