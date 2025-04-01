@@ -2,15 +2,15 @@
 <h3 align="center">A passionate MERN STACK developer !!</h3>
 
 💫 About Me:
-- 💻 **Currently Building:** Scalable and efficient backend systems  
-- 🤝 **Looking to Collaborate On:** Open Source & Web Development Projects  
-- 💬 **Ask Me About:** MERN Stack, DSA, Competitive Programming  
+- 💻 **Currently Building:** Scalable and efficient Websites.  
+- 🤝 **Looking to Collaborate On:** Open Source & Web Development Projects. 
+- 💬 **Ask Me About:** MERN Stack, DSA, Competitive Programming.
+- 
+### 🌍 Check Out My Portfolio  
+🔗 **[My Portfolio](https://siddharthaportfolio.netlify.app/)**  
 
 ### 📩 How to Reach Me  
 📧 **Email:** [asiddharthagoud@gmail.com](mailto:asiddharthagoud@gmail.com)  
-
-### ⚡ Fun Fact  
-I code in **light mode**—yes, my eyes have superpowers! 😎  
 
 ---
 🚀 Let's build something awesome together!  
