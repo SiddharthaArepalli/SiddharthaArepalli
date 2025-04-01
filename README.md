@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
 <h3 align="center">A passionate MERN STACK developer !!</h3>
-# 💫 About Me:
-🔭 I’m currently working on Backend Development<br><br>🌱 I’m currently learning Express js<br><br>👯 I’m looking to collaborate on Open Source<br><br>💬 Ask me about Web Developement , DSA , Competative programing<br><br>📫 How to reach me asiddharthagoud@gmail.com<br><br>⚡ Fun fact I like to code in light mode also
 
+💫 About Me:
+- 💻 **Currently Building:** Scalable and efficient backend systems  
+- 🤝 **Looking to Collaborate On:** Open Source & Web Development Projects  
+- 💬 **Ask Me About:** MERN Stack, DSA, Competitive Programming  
+
+### 📩 How to Reach Me  
+📧 **Email:** [asiddharthagoud@gmail.com](mailto:asiddharthagoud@gmail.com)  
+
+### ⚡ Fun Fact  
+I code in **light mode**—yes, my eyes have superpowers! 😎  
+
+---
+🚀 Let's build something awesome together!  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s1ddh4rth_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddharthaarepalli/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/siddharth_23) 
