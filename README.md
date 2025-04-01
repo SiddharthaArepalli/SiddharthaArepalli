@@ -5,10 +5,7 @@
 - 💻 **Currently Building:** Scalable and efficient Websites.  
 - 🤝 **Looking to Collaborate On:** Open Source & Web Development Projects. 
 - 💬 **Ask Me About:** MERN Stack, DSA, Competitive Programming.
-- 
-### 🌍 Check Out My Portfolio  
-🔗 **[My Portfolio](https://siddharthaportfolio.netlify.app/)**  
-
+ 
 ### 📩 How to Reach Me  
 📧 **Email:** [asiddharthagoud@gmail.com](mailto:asiddharthagoud@gmail.com)  
 
