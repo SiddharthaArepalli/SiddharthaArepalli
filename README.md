@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
-<h3 align="center">A passionate Full STACK developer !!</h3>
+<h3 align="center">A passionate Full stack developer !!</h3>
 
 💫 About Me:
 - 💻 **Currently Building:** Scalable and efficient Websites.  
